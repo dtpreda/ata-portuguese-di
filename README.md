@@ -1,4 +1,4 @@
-# atc-portuguese-di
+# ata-portuguese-di
 
 This is the repository for the research article `Across the Atlantic: Distinguishing Between European and Brazilian Portuguese Dialects`.
 
