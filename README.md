@@ -40,7 +40,9 @@ Don't forget to set the paths to the data files you want to use.
 
 #### Transformers Experiments
 
-We have included the code for the initial experiments with transformers in the [`lms.ipynb`](/nbs/lms.ipynb) notebook. This notebook contains only a short experiment as proof of concept.
+The code for training the language models presented in the paper with a dataset of your choice is in the [`lora_pt_br.py`](/scripts/lora_pt_br.py) script. This script is set up to be configurable, so please edit the parameters to your liking. For evaluation, please use the [`load_lora_pt_br.py`](/scripts/load_lora_pt_br.py) script.
+
+We have also included the code for the initial experiments with transformers in the [`lms.ipynb`](/nbs/lms.ipynb) notebook. This notebook contains only a short experiment as proof of concept.
 
 Don't forget to set the paths to the data files you want to use.
 
