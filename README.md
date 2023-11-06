@@ -26,9 +26,9 @@ re
 - Run the script to get the training, dev and test splits of the dataset.
 - For feature extraction, use the [`data.ipynb`](nbs/data.ipynb) notebook, with the paths to the split you want to use. This also includes filtering steps.
     - For length-based filtering, we suggest using the following thresholds:
-        - \> 10 chars for single-sentence examples.
-        - \> 40 chars for 4-sentence examples.
-        - \> 500 chars for full-transcript examples.
+        - \>= 10 chars for single-sentence examples.
+        - \>= 40 chars for 4-sentence examples.
+        - \>= 500 chars for full-transcript examples.
 
 ### Models
 
